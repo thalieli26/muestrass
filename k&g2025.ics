@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+BEGIN:VEVENT
+SUMMARY:Boda de Kevin & Gabriela 💍
+DTSTART;TZID=America/Tegucigalpa:20250301T180000
+DTEND;TZID=America/Tegucigalpa:20250301T180000
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial.
+LOCATION:
+BEGIN:VALARM
+TRIGGER:-PT15M
+DESCRIPTION:Recordatorio de la boda de Kevin & Gabriela 💍
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
